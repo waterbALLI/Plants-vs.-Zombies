@@ -1,0 +1,41 @@
+﻿  tools.cpp
+  vector2.cpp
+E:\植物大战僵尸.k\for得得得\for得得得\tools.cpp(90,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(7,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(7,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(12,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(12,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(17,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(17,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(22,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(22,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(26,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(26,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(46,39): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(51,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\vector2.cpp(51,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  源.cpp
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(180,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(206,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(207,123): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(207,90): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(278,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(278,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(382,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(383,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(392,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(394,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(502,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(504,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(505,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(527,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(527,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(528,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(528,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(530,23): warning C4305: “=”: 从“double”到“float”截断
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(1068,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(1068,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(1085,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\植物大战僵尸.k\for得得得\for得得得\源.cpp(1085,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  for得得得.vcxproj -> E:\植物大战僵尸.k\for得得得\x64\Debug\for得得得.exe
